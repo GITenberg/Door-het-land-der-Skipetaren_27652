@@ -1,0 +1,42 @@
+_repo: Door-het-land-der-Skipetaren_27652
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sluijters, Jan
+    alias: Sluyters, Jan
+    birthdate: 1881
+    deathdate: 1957
+    gutenberg_agent_id: '8316'
+    url: http://www.gutenberg.org/2009/agents/8316
+    wikipedia: http://www.kunstbus.nl/verklaringen/jan+sluyters.html
+covers:
+- cover_type: archival
+  image_path: 27652-h/images/cover.jpg
+creator:
+  author:
+    agent_name: May, Karl
+    aliases:
+    - May, Karl Friedrich
+    - Linden, E. von
+    - Hohenthal, Karl
+    - May, Carl
+    birthdate: 1842
+    deathdate: 1912
+    gutenberg_agent_id: '1018'
+    url: http://www.gutenberg.org/2009/agents/1018
+    wikipedia: http://en.wikipedia.org/wiki/Karl_May
+description: ''
+gutenberg_issued: '2008-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27652'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Adventure stories'
+- !lcsh 'Middle East -- Fiction'
+title: Door het land der Skipetaren
+url: http://www.gutenberg.org/ebooks/27652
